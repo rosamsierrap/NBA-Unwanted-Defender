@@ -9,7 +9,7 @@ The reducing process creates a dictionary and checks the lowest rate of made sho
 
 Proceed to clone the repository into the Cloud cluster.
 
-`git clone https://github.com/rosamsierrap/Project1 `
+`git clone https://github.com/rosamsierrap/NBA-Unwanted-Defender.git `
 
 ## Data
 
